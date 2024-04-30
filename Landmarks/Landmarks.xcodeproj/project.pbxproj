@@ -88,11 +88,11 @@
 		3D0645912BDF35E500EF9AA3 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				3D0645982BE074B700EF9AA3 /* LandmarkDetail.swift */,
 				3D0645792BDF239900EF9AA3 /* ContentView.swift */,
 				3D0645852BDF288E00EF9AA3 /* CircleImage.swift */,
 				3D0645872BDF2A1000EF9AA3 /* MapView.swift */,
 				3D0645942BDF36FB00EF9AA3 /* LandmarkRow.swift */,
+				3D0645982BE074B700EF9AA3 /* LandmarkDetail.swift */,
 				3D0645962BDF3B3900EF9AA3 /* LandmarkList.swift */,
 			);
 			path = Views;
