@@ -22,7 +22,7 @@ struct ProfileEditor: View {
                 Text("Username")
                 Spacer()
                 TextField("Username", text: $profile.username)
-                    .foregroundColor(.secondary)
+                    .foregroundStyle(.secondary)
                     .multilineTextAlignment(.trailing)
             }
             
